@@ -1,5 +1,5 @@
 
-public class maxsub {
+public class MaxProfitBruteForce {
 
 	public static void FindMaxSubarrayBruteForce(int[] A, int low, int high) {
 		int left = low;
