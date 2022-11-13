@@ -200,6 +200,5 @@ public class merge {
 		}
 
 		System.out.printf("%d]\n", A[A.length - 1]);
-
 	}
 }
