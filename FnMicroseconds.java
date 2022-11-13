@@ -1,5 +1,5 @@
 
-public class HW1q2 {
+public class FnMicroseconds {
 
 	public static void nlogn(long numberNLogn) {
 
