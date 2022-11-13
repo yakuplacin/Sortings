@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.logging.Level;
 
-public class merge {
+public class MergeImprovedInsertion {
 
 	static int bestlevel = 1;
 
