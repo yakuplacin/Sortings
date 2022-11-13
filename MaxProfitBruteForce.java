@@ -90,5 +90,4 @@ public class maxsub {
 				"left indices: " + (left + 1) + " right indices: " + (right + 1) + " maximum difference: " + maxDiff);
 
 	}
-
 }
